@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679670554702",
+    "project_id": "flash-chat-cyo",
+    "storage_bucket": "flash-chat-cyo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679670554702:android:27f09fb307041e16d6231f",
+        "android_client_info": {
+          "package_name": "co.cyo.bitcoin_ticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679670554702-mmbk6p3nn5auak1lvjrcskfqmhe2mhip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBn9ESRhOekLO2N-O8ARJaKMXz3QpsSRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679670554702-mmbk6p3nn5auak1lvjrcskfqmhe2mhip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
